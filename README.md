@@ -1,2 +1,2 @@
 # Phased Array
-- How to (beamform)[beamform.md]
+- How to [beamform](beamform.md)
